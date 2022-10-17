@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1041230767756",
+    "project_id": "social-media-app-firebas-fed1a",
+    "storage_bucket": "social-media-app-firebas-fed1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041230767756:android:10195ccbe9421ed7ba3da9",
+        "android_client_info": {
+          "package_name": "com.rehan.socialmediaappfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041230767756-i16vsclsrud7nurhlah0k6m310prdp6v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBANpe3fftS7VizFYQIP7GoDW8kW_zmqxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041230767756-i16vsclsrud7nurhlah0k6m310prdp6v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
